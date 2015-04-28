@@ -1849,14 +1849,14 @@ section.accounts input.delete:active {
 }
 input.add-account,
 input.add-account:visited {
-    background: url(../images/addNewAccount.png) 0 center no-repeat;
+    background: url('https://github.com/semmelknoedl/addNewAccount.png') 0 center no-repeat;
     color: #fff;
     padding-left: 35px;
 }
 input.add-account:hover {
     color: #fff;
     background-color: #BB8989;
-    background: url(../images/addNewAccountOver.png) 0 center no-repeat;
+    background: url('https://github.com/semmelknoedlimages/addNewAccountOver.png') 0 center no-repeat;
 }
 input.add-account:active {
     top: 1px;
