@@ -1,0 +1,8 @@
+Startseite / Home
+
+<h2>Willkommen bei VIVO</h2>
+<p>
+VIVO ist ein Portal, welches die Kommunikation zwischen den verschiedenen Bereichen der TIB vereinfacht und die Zusammenarbeit ermöglicht und fördert.
+<br>
+Mit VIVO kann man browsen oder gezielt nach Informationen über Mitarbeiter, Abteilungen und Teams, Projekte, Publikationen und Vorträge suchen.
+</p>
